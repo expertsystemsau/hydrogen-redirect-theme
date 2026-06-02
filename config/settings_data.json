@@ -11,6 +11,13 @@
   "current": {
     "storefront_hostname": "thelawniq.com",
     "integrate_with_customer_accounts": true,
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "15685250022964305326": {
+        "type": "shopify://apps/elevar-conversion-tracking/blocks/dataLayerEmbed/bc30ab68-b15c-4311-811f-8ef485877ad6",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   }
 }
